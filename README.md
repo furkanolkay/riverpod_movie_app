@@ -1,16 +1,13 @@
-# riverpod_movie_app
+# Riverpod Movie Example
 
-A new Flutter project.
+## Project Contents
+
+- Includes Example Flutter Projet DDD Architecture and Riverpod State Managment Usage
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+    - Firstly, create a '.env' file in project main path and put values as ;
 
-A few resources to get you started if this is your first Flutter project:
+            API_KEY=[API_KEY] 
+            API_URL=['API_URL]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
